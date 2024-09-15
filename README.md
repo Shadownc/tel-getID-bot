@@ -2,6 +2,9 @@
 
 这是一个基于 [Telegraf](https://telegraf.js.org/) 的 Telegram 机器人，支持获取用户 ID、获取群组 ID 以及查看帮助信息。
 
+## 体验
+[点击体验](https://t.me/gmesidf_bot)
+
 ## 功能
 
 - `/getme`: 获取你的 Telegram 用户 ID。
